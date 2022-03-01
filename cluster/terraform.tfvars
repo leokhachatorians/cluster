@@ -1,0 +1,5 @@
+project_id      = ""
+region          = ""
+zone            = ""
+creds           = "../config/tf-gke-cluster-key.json"
+service_account = ""
